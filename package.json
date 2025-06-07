@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/Harsh0087/AlphaBeatShopFrontsShutterLtd.git",
+  "homepage": "https://Harsh0087.github.io/AlphaBeatShopFrontsShutterLtd",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
